@@ -1,0 +1,6 @@
+@dotnetBackend_HostAddress = http://localhost:5144
+
+GET {{dotnetBackend_HostAddress}}/user/
+Accept: application/json
+
+###
